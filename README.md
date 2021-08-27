@@ -2,6 +2,7 @@
 The classic arcade game space shooter implemented as using python and pygame
 
 Requirements:
+
 -Python 3.x
 
 -pygame
